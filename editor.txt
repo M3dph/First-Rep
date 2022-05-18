@@ -1,0 +1,6 @@
+Visual Studio Code;
+Atom;
+Vim;
+Notepad++;
+Sublime Text;
+Geany;
