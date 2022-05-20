@@ -9,6 +9,7 @@ namespace Program
             System.Console.WriteLine("\tgit add; git commit; git restore.");
             System.Console.WriteLine("\tgit branch; git restore, git checkout \"nameBranch\"; git reset");
             System.Console.WriteLine("\tgit checkout -b \"nameBranch\"; git branch -d \"nameBranch\"");
+            System.Console.WriteLine("\tgit pull; git clone \"gitURL\"");
         }
     }
 }
