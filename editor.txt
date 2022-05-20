@@ -4,3 +4,5 @@ Vim;
 Notepad++;
 Sublime Text;
 Geany;
+Web Storm;
+PyCharm;

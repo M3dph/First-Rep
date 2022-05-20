@@ -10,3 +10,6 @@ Lua;
 Ruby;
 Pearl;
 Assembly;
+TypeScript;
+Golang;
+Prolog;
